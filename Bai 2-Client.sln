@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai 2-Client", "Bai 2-Client\Bai 2-Client.csproj", "{BE093211-936B-443A-A62E-65A620FB8CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai 2-server", "Bai 2-server\Bai 2-server.csproj", "{E7A6BD3F-E022-44DB-B610-FC06444BC2DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server", "server\server.csproj", "{564B2BA8-280A-445A-BD00-D91DEBF29CA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE093211-936B-443A-A62E-65A620FB8CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE093211-936B-443A-A62E-65A620FB8CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE093211-936B-443A-A62E-65A620FB8CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE093211-936B-443A-A62E-65A620FB8CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7A6BD3F-E022-44DB-B610-FC06444BC2DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A6BD3F-E022-44DB-B610-FC06444BC2DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A6BD3F-E022-44DB-B610-FC06444BC2DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A6BD3F-E022-44DB-B610-FC06444BC2DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564B2BA8-280A-445A-BD00-D91DEBF29CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564B2BA8-280A-445A-BD00-D91DEBF29CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564B2BA8-280A-445A-BD00-D91DEBF29CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564B2BA8-280A-445A-BD00-D91DEBF29CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
